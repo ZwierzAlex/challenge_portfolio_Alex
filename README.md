@@ -1,1 +1,6 @@
-# challenge_portfolio_Alex
+# Task 1
+## Subtask 2
+9 punktów
+## Subtask 3
+*Cześć :smiley: Biorę udział w tym challenge'u, ponieważ po ponad dekadzie w marketingu uznałam, że czas coś zmienić. Firma w kórej pracowałam, zaczęła się bardzo mocno rozwijać, a tym samym poważnie zmieniać swoją stronę, swój sklep on-line. Dzięki czemu zostały na mnie przeniesione obowiązki współpracy z developerami zajmujacymi się tym, z devami, zajmującymi się migracją naszej strony i odkryłam, że to jest właśnie to co chcę robić "jak będę duża" :upside_down_face:! Całe życie wszyscy mi powtarzają, że czepiam się szczegółów, a ja im na to odpowiadam, że życie składa się ze szczegółów. Tak właśnie jest, jeden mały błąd może nieść za sobą olbrzymie konsekwencje :( Udało mi się znaleźć jeszcze 2 firmy, kóre akurat od podstaw budowały swoje strony, dzięki temu mogłam aktywnie uczestniczyć w testowaniu wszystkiego co tylko zostawało wprowadzane na serwery testowe. To spowodowało, że postanowiłam oddać się temu w 100%, a żeby to zrobić i móc pracować jak QA, wiedziałam, że jeszcze daleka droga przede mną. Postanowiłam więc zwolnić się z pracy i poświęcić swój czas i energię na uczenie się i rozwijanie w tym, co realnie mnie interesuje i w skórcie mówiąc- jara :satisfied:*
+**Ola**
