@@ -45,3 +45,14 @@ Prosty, mało intuicyjny. Górne boxy z ilością meczy, graczy, raportów i akc
 
 13-16 -> screen_7
 
+![screen_2](https://user-images.githubusercontent.com/131251044/234254749-4ea5b060-5018-467a-9229-0b247a1d5420.jpg)
+![screen_3](https://user-images.githubusercontent.com/131251044/234254750-f9177f95-ca38-4516-852e-ec19f2c7b4e5.jpg)
+![screen_5](https://user-images.githubusercontent.com/131251044/234254752-d318dfbb-212f-4ad2-9a7e-20526569c4fa.jpg)
+![screen_6](https://user-images.githubusercontent.com/131251044/234254755-48c72092-159d-4ec6-84b7-077122331aa4.jpg)
+![screen_4](https://user-images.githubusercontent.com/131251044/234254767-12d854ad-9d89-494d-8509-981cce92d4f5.jpg)
+![screen_7](https://user-images.githubusercontent.com/131251044/234254768-10b4e397-7ce3-469a-993c-32bb6421150c.jpg)
+
+
+https://user-images.githubusercontent.com/131251044/234254771-8b758f9e-fcdd-42ea-b0c5-9d2f949853d8.mp4
+
+![screen_1](https://user-images.githubusercontent.com/131251044/234254773-db210675-5ecf-4f7e-b0f9-48b660de826a.jpg)
