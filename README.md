@@ -38,9 +38,10 @@ Prosty, mało intuicyjny. Górne boxy z ilością meczy, graczy, raportów i akc
 11. Jeden błąd 404 (screen_4).
 12. Klikając "Ostatnio stworzony lub zaktualizowany gracz/mecz/ranking" znajdujący się w "Aktywnościach" wyświetla się od razu strona edycji.
 #### Mecze
-13. data meczu przyjmuje wszystkie dowolne wartości w przeszłości czy przyszłości
-14. czas gry może być wartością poniżej zera
+13. Data meczu przyjmuje wszystkie dowolne wartości w przeszłości czy przyszłości
+14. Czas gry może być wartością poniżej zera
 15. Kolor koszulki przyjmuje wszystkie znaki w tym specjalne i cyfry
 16. Drużyna zawodnika i drużyna przeciwnika przyjmują wszystkie znaki w tym specjalne i cyfry
+
 13-16 -> screen_7
 
