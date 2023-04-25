@@ -16,8 +16,9 @@ Edytowanie istniejącego raportu-działa zgodnie z założeniem.
 Zmiana języka aplikacji na angielski-działa zgodnie z założeniem.
 Wszystkie powyższe funkcjonalności działają zgodnie z planem- wszytkie wielkości daje się dodawać lub edytować.
 ### Interfejs
-Prosty, mało intuicyjny. Górne boxy z ilością meczów, graczy, raportów i akcji są nieklikalne- utrudnia to nawigację po tych wielkościach. Żeby realnie dostać się do meczów, graczy czy raportów należy kliknąć przycisk [gracze] po lewej stronie, co nie jest jasne i oczywiste. Jeśli użytkownik chce dostać się w zakładkę [ilość meczy] chce klinkąć właśnie w taką zakładkę, nie chce przechodzić przez graczy, bo nie to go interesuje, jednak nie ma innej możliwości. Jedyna szansa, żeby dostać się do meczu czy też rankingu to droga przez "Aktywność"- jeśli był to akurat ostatnio dodany mecz/gracz/ranking. Jednak kliknięcie w ostatnio dodany mecz/ranking kieruje użytkownika od razu do edycji danych. Zagospodarowanie przestrzeni strony można by było zaplanować lepiej, z mojej perspektywy jest tu dużo martontrastwa miejsca, które można by było wykorzystać do rozbudowny strony, żeby była bardziej przejrzysta, intuicyjna i przyjazna dla użytkownika.
+Prosty, mało intuicyjny. Górne boxy z ilością meczy, graczy, raportów i akcji są nieklikalne- utrudnia to nawigację po tych wielkościach, a wręcz uniemożliwia dostanie się do ogólnych rankingów. Zagospodarowanie przestrzeni strony można by było zaplanować lepiej, z mojej perspektywy jest tu dużo martontrastwa miejsca, które można by było wykorzystać do rozbudowny strony, żeby była bardziej przejrzysta, intuicyjna i przyjazna dla użytkownika.
 ### Błędy
+#### Gracze
 1. Formularze edycji przyjmują wartości mniejsze od zera (wpisane ręcznie) w oknach dialogowych, gracz może mieć ujemną wagę, wzrost i czas.
 2. Formularze edycji gracza przyjmują dowolne daty urodzenia wprowadzone ręcznie: można ustawić datę urodzenia na 01.01.0001 a można również podać datę w przyszłości np. 01.01.2050 lub datę dnia teraźniejszego np. 25.04.2023.
 3. Formularze edycji w swoich polach przyjmują wszystkie istniejące znaki w tym specjalne oraz cyfry. Tak jak w przypadku imion/nazwisk/nazwy klubu czy maila można to dopuścić, tak:
@@ -28,4 +29,18 @@ Prosty, mało intuicyjny. Górne boxy z ilością meczów, graczy, raportów i a
 1+2+3 -> Załączony screen_1
 4. Korzystając z polskiej wersji językowej przyciski odrzucające lub potwierdzające zmiany mają angielskie napisy (screen_2).
 5. Korzystając z polskiej wersji językowej ikony pobierania, drukowania, wyboru kolumn i sortowania mają angielskie podpisy (film_1). 
-6. Na główniej stronie znajduje się błąd w słowie "Aktywność" (screen_3).
+6. Pokazuje się jeden błąd 403 oraz jeden błąd, kórego niestety nie potrafię opisać, ponieważ nie za bardzo umiem, dlatego też załączam screen_6. (screen_5 i screen_6).
+7. Wybierając konktretnego gracza z listy graczy, użytkownik zostaje automatycznie przeniesiony do strony edycji danych wybranego przez niego gracza, uważam, że powinny się pojawić jego dane, które ewentulanie mogą być później zedytowane, jednak nie powinno się to dziać automatycznie.
+8. Graczy można sortować po imieniu, nazwisku, wieku, pozycji, klubie i recencji, jednak nie ma tej możliwości w przypadku 2 ostatnich kolumn tj. mecze i raporty, co uważam, że jest również ważne.
+9. Wyszukiwarka w headerze ma napis: search, pomimo wybranej wersji językowej polskiej.
+#### Strona główna
+10. Błąd w słowie "Aktywność" (screen_3).
+11. Jeden błąd 404 (screen_4).
+12. Klikając "Ostatnio stworzony lub zaktualizowany gracz/mecz/ranking" znajdujący się w "Aktywnościach" wyświetla się od razu strona edycji.
+#### Mecze
+13. data meczu przyjmuje wszystkie dowolne wartości w przeszłości czy przyszłości
+14. czas gry może być wartością poniżej zera
+15. Kolor koszulki przyjmuje wszystkie znaki w tym specjalne i cyfry
+16. Drużyna zawodnika i drużyna przeciwnika przyjmują wszystkie znaki w tym specjalne i cyfry
+13-16 -> screen_7
+
